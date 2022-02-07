@@ -1,0 +1,14 @@
+ol {
+    list-style-type: upper-roman;
+}
+
+ul {
+    list-style-type: upper-alpha;
+    l
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 150px;
+}

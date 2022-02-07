@@ -1,0 +1,43 @@
+ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+ol li {
+    float: left;
+    padding: 10px;
+}
+
+li a {
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #202020;
+}
+
+.links {
+    float: center;
+    list-style-type: none;
+}
+
+.home {
+    width: 90vw;
+    height: 100vh
+}
+
+.contact {
+    width: 90vw;
+    height: 100vh
+}
+
+html {
+    scroll-behavior: smooth;
+}
