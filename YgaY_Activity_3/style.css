@@ -1,14 +1,23 @@
-ol {
+.upperroman {
     list-style-type: upper-roman;
 }
-
-ul {
-    list-style-type: upper-alpha;
-    l
+.lowerroman {
+    list-style-type: lower-roman;
 }
 
-img {
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    width: 150px;
+#upperalpha{
+    list-style-type: upper-alpha;
+}
+#loweralpha{
+    list-style-type: lower-alpha;
+}
+
+#square{
+    list-style-type: square;
+}
+
+
+#imgstyle{
+    list-style-image: url(Image/ok.png);
+
 }
