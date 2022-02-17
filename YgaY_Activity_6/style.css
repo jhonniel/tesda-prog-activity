@@ -1,0 +1,29 @@
+.headings {
+    width:100%;
+
+}
+.row td{
+    border: 1px solid black;
+  border-collapse: collapse;
+}
+
+
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+}
+
+article {
+    columns: 3;
+  }
+  
+  h2 {
+    column-span: all;
+  }
+
+  .rowspan, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 6px;
+  }
